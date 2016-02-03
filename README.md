@@ -31,4 +31,8 @@ You can refer to the API description on the following link:</p>
 <h4>Facebook</h4>
 <p>Facebook provides developers with an API called the Facebook Platform. Facebook Connect is the next iteration of Platform, which provides a set of API's that enable Facebook members to log onto third-party websites, applications and mobile devices with their Facebook identity. While logged in, users can connect with friends via these media and post information and updates to their Facebook profile.</p>
 https://developers.facebook.com/ <br>
-https://developers.facebook.com/docs/javascript
+https://developers.facebook.com/docs/javascript<br>
+<h4>OpenWeatherMap</h4>
+<p>OpenWeatherMap map is a service supplies libraries which can provide the current cloud map over a region. You need to use OpenWeatherMap direct tile server functionality to add the weather map layers to form the cloud map. OpenLayers.js is the library which is required to be included to create the cloud map.</p>
+<p>For details for the library and its usage refer the OpenWeatherMap documentation at
+http://openweathermap.org/hugemaps#how</p>
