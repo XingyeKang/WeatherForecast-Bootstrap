@@ -1,0 +1,68 @@
+body {
+    background-image: url(http://cs-server.usc.edu:45678/hw/hw8/images/bg.jpg);
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    margin: auto;
+}
+
+.whitefont {
+    color: white;
+    text-align: left;
+}
+.nav-tabs {
+    color: rgb(73,112,169);
+
+}
+.t1pic {
+    width: 140px;
+    height: 140px;
+}
+.t2summary{
+    width: 50px;
+    height: 50px;
+}
+.t2hoursSlide{
+    background-color: white;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: #e6e6e6;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+    color: white;
+    background-color: rgb(48,112,169);
+}
+.tabcolor{
+    background-color: white;
+}
+.t3days{
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    margin: 4px;
+    margin-left: 0;
+}
+.t3days1{
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    margin-right: 4px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.t3icon{
+    width: 70px;
+    height: 70px;
+}
+.t3img{
+    width: 150px;
+    height: 150px;
+}
+.modalmargin{
+    margin-top: 7px;
+    margin-bottom: 10px;
+}
